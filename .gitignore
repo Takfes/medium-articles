@@ -1,0 +1,8 @@
+!.gitignore
+
+*.py
+!get_medium_links.py
+!parse_medium_links.py
+!parsed_to_notion.py
+
+archive/**
